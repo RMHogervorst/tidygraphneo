@@ -1,0 +1,10 @@
+---
+title: "tidygraph operators for neo4j"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+In this work I want to manipulate a graph in neo4j with operators from tidygraph.
